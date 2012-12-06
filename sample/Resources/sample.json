@@ -4,7 +4,7 @@
 	"sections": [
 
         { "title":"Controls", "elements":[
-            {"type":"QLabelElement", "title":"Label"},
+            {"type":"QLabelElement", "title":"The Label"},
             {"type":"QBadgeElement",  "title":"Badge", "badge":"123"},
             {"type":"QBooleanElement", "title":"Boolean", "boolValue":0},
             {"type":"QBooleanElement", "title":"Boolean", "boolValue":1},
