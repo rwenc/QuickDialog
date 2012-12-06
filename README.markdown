@@ -1,4 +1,4 @@
-# Rob's Super QuickDialog
+# Rob's Super Slick QuickDialog
 
 **Quick and simple dialogs for iOS developers.**
 
