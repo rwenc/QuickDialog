@@ -1,6 +1,6 @@
-# Rob's Super Slick QuickDialog
+# Rob's Super Server QuickDialog
 
-**Quick and simple dialogs for iOS developers.**
+**Quick and simple ialogs for iOS developers.**
 
 ## For more information and documentation, please go to [the project official website](http://escoz.com/open-source/quickdialog).
 
